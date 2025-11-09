@@ -1,0 +1,22 @@
+{
+  "name": "TOKO JUAL AKI",
+  "short_name": "JUAL AKI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06084a",
+  "description": "Kami adalah toko aki mobil terpercaya yang berkomitmen menghadirkan produk aki original dengan harga terbaik dan pelayanan super cepat.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaxkOff237mrbExBXCQrKbCLNKRAq7UeXqsy6AUCvQq7NPYwkncDWHnnZUyH1a3uQU8V7AGh_ft0ugpY9cNT3BglJBldL2hoSs7DWn9xWcoOr1GS9fe9Bn4EjfglCzP55Pd_g1ezwUYjNCA9E9sF5ZJ1AfJHBsNurN3F8xPyxsOyg5HQzZJENKe_tx5fBC/s16000/AVvXsEjTlrF_E44ChZz6v-dlSmj-HOIA%20-%20Copy.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPdh5ohkjMaOxH_7qVyI0O2P77Bx-vwTfMiWUidwAfFjGNzUd3_v_SHTabij1QWVX6m13wSdvHCgGS6PEJR6Pn7WNMIJ20OK-cOLCBy-Uk1esgRwwGVsM0kZJlWrWOhwiIvaCU9i5GmJDYa_EqBypxgx7yQpstJ8uTfsSGW1Ypb7NWJ1m_O5ON9wosNsUh/s16000/AVvXsEjTlrF_E44ChZz6v-dlSmj-HOIA.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
